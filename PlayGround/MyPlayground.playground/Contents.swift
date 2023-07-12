@@ -30,3 +30,4 @@ default:
 //三元運算符
 let result = (person == "Limer" ? "Hello, Lady Ada!" : "Hello , \(person)")
 print(result)
+//123
